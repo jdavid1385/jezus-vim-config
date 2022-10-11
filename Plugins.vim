@@ -70,7 +70,7 @@ Plugin 'neovim/nvim-lspconfig'
 Plugin 'ray-x/guihua.lua', {'do': 'cd lua/fzy && make' }
 Plugin 'ray-x/navigator.lua'
 Plugin 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
-Plugin 'neoclide/coc.nvim', {'branch': 'release'}
+Plugin 'jdavid1385/coc.nvim', {'branch': 'coc-jn'}
 
 Plugin 'kosayoda/nvim-lightbulb'
 Plugin 'weilbith/nvim-code-action-menu'
