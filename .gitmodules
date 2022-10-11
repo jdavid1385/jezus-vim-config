@@ -1,3 +1,6 @@
 [submodule "bundle"]
 	path = bundle
 	url = git@github.com:jdavid1385/vim-bundles.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:jdavid1385/jezus-nvim.git
